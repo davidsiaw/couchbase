@@ -3,7 +3,7 @@ Description
 
 Installs and configures Couchbase.
 
-[![Build Status](https://travis-ci.org/davidsiaw/couchbase.png)](https://travis-ci.org/davidsiaw/couchbase)
+[![Build Status](https://travis-ci.org/davidsiaw/couchbase-chef.png)](https://travis-ci.org/davidsiaw/couchbase-chef)
 
 Requirements
 ============
